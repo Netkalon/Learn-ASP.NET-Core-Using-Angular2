@@ -8,4 +8,4 @@
 </div></div>
 `  
 })  
-export class AppComponent{}  
+export class AppComponent{ }  
